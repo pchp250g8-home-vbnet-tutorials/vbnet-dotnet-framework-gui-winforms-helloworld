@@ -1,3 +1,14 @@
 HelloWorld. VB.Net Tutorials. DotNet FrameWork Platform. Simple Input/Output. Windows Forms. GUI Application.
+The program does the following:
+  1. Creates a dialog box (form) with two buttons on it.
+  2. Starts a cycle of processing messages (events) from the user or the operating system.
+  3. When you click the button labeled "Say Hello", it displays a dialog box with the message "Hello, World".
+  4. Clicking the button labeled "Quit" or the "Close" button in the dialog box's title bar exits the dialog box.
 
-HelloWorld. Занятия по VB.Net. Платформа DotNet FrameWork. Простой Вввод/Вывод. Библиотека Windows Forms. Приложение с графическим интерфейсом пользователя.
+HelloWorld. Занятия по VB.Net. Платформа DotNet FrameWork. Простой Вввод/Вывод. Библиотека Windows Forms. 
+Приложение с графическим интерфейсом пользователя.
+Программа делает следующее:
+  1. Создаёт диалоговое окно (форму) с двумя кнопками на нём (ней).
+  2. Запускает цикл обработки сообщений (событий) от пользователя или операционной системы.
+  3. При нажатии кнопки с надписью "Say Hello" выводит диалоговое окно с сообщением "Hello,World".
+  4. При нажатии кнопки с надписью "Quit" или кнопки "Закрыть" в заголовке диалогового окна завершает работу.
